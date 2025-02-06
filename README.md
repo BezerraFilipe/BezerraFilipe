@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**BezerraFilipe/BezerraFilipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left"> 
+  Estudante de Ciência da Computação na Universidade Federal de Pernambuco;
+  Apaixonado por café, bicicletas e programação;
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+   - JavaScript; TypeScript; Python; Java; C; C++; C#;
+</p>
+
+<p align="left">
+   - Node.js; Next.js; 
+</p>
+
+<p align="left">
+  💌 Vamos nos conectar!⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=bezerrafilipe13@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipe-bezerra-9a6baa267/" alt="LinkedIn"/></a>
+</p>
